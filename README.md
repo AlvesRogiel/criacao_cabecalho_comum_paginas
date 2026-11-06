@@ -1,12 +1,7 @@
 # Atividade 1 - App Web com Express
 
-Este projeto é um exemplo simples de aplicação web usando **Node.js + Express** para servir páginas HTML estáticas.
-
-O objetivo é ajudar quem está iniciando a entender:
-- como organizar um projeto web em pastas;
-- como criar rotas no backend;
-- como conectar HTML e CSS;
-- como exibir uma página `404` quando a rota não existe.
+Este projeto tem o objetivo de utilização de logica para utilizar um mesmo cabeçalho em varias pagina
+Sem a necessidade de um cabeçalho por página
 
 ## Tecnologias usadas
 - Node.js
